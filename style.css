@@ -1,0 +1,37 @@
+body{
+    font-weight: 400;
+    font-family: lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color:rgb(87, 87, 87);
+    margin: 0;
+}
+
+header{
+    background-color:#f14d94;
+}
+
+section, footer{
+    margin: 40px;
+}
+
+h1{
+    font-size: 40px;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform:uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+.img-custom-size {
+    width: 50%; /* ou um valor fixo em pixels, como width: 300px; */
+    height: auto;
+  }
+  
+  
